@@ -19,3 +19,61 @@ header {
   margin-bottom: 20px;
   padding-bottom: 10px;
 }
+
+h1 { 
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+nav ul {
+  padding: 0;
+}
+
+nav li {
+display: inline;
+margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: blue;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  margin-top: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+
+ul {
+  margin-left: 40px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+footer {
+  margin-top: 30px;
+  border-top: 1px solid black;
+  padding-top: 10px;
+  font-size: 12px;
+}
